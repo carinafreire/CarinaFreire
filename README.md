@@ -1,16 +1,15 @@
-## Hi there 👋
+**Sobre mim**
 
-<!--
-**carinafreire/CarinaFreire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Sistemas de Informação** pela Faculdade Impacta e formada em **Desenvolvimento de Sistemas** pela ETEC. Após sete anos atuando na área da Estética, iniciei minha transição para Tecnologia com o objetivo de construir uma carreira sólida, baseada em disciplina, aprendizado contínuo e aplicação prática.
 
-Here are some ideas to get you started:
+Tenho interesse em ingressar no mercado de TI por meio de uma oportunidade de estágio, onde possa adquirir experiência real, contribuir com equipes profissionais e evoluir de forma estruturada. Valorizo organização, clareza, responsabilidade e comprometimento, qualidades presentes em toda a minha trajetória.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Vejo o GitHub como um espaço para registrar minha evolução, estudos e projetos, refletindo minha dedicação ao desenvolvimento técnico e ao aprimoramento constante.
+
+Estou aberta a conexões, trocas profissionais e oportunidades que contribuam para meu crescimento na área.
+
+**Contato**
+
+**E-mail:** carinafreire.m@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/carina-freire/
